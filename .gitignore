@@ -1,0 +1,18 @@
+# Ignore the large dataset folders
+data/
+training/
+testing/
+gt_database/
+devkit_object/
+
+# Ignore the virtual environment
+fusion_env/
+
+# Ignore Python specific files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignore IDE specific folders
+.vscode/
+.antigravity/
